@@ -1,10 +1,19 @@
+.no-pad{
+  margin: 0!important;
+  padding: 0!important;
+  box-sizing: border-box;
+
+}
+
 .custom-container {
   height:90vh !important;
-  width: 100vw;
+  width: 100%;
   /* Adjusts the height to 80% of the browser window height */
 }
 
+
+
 .box {
   height: 100%;
-  width: 100%;
+  width: 80%;
 }
